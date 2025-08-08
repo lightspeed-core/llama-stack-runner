@@ -15,6 +15,7 @@ dependencies = [
     "blobfile>=3.0.0",
     "datasets>=3.6.0",
     "sqlalchemy>=2.0.41",
+    "openai==1.99.1",
     "faiss-cpu>=1.11.0",
     "mcp>=1.9.4",
     "autoevals>=0.0.129",
