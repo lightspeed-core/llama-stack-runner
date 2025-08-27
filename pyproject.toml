@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Default template for PDM package"
 authors = []
 dependencies = [
-    "llama-stack==0.2.17",
+    "llama-stack==0.2.18",
     "fastapi>=0.115.12",
     "opentelemetry-sdk>=1.34.0",
     "opentelemetry-exporter-otlp>=1.34.0",
@@ -15,7 +15,7 @@ dependencies = [
     "blobfile>=3.0.0",
     "datasets>=3.6.0",
     "sqlalchemy>=2.0.41",
-    "openai==1.99.1",
+    "openai>=1.99.1",
     "faiss-cpu>=1.11.0",
     "mcp>=1.9.4",
     "autoevals>=0.0.129",
